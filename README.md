@@ -73,7 +73,7 @@ To deploy the `MyToken` smart contract, we can use Remix IDE.
    
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the LICENSE.md file for details
 
 ## Authors
 
