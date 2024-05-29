@@ -70,13 +70,18 @@ To deploy the `MyToken` smart contract, we can use Remix IDE.
 2. In the Contracts folder, create a new file and paste the contract code into the editor.
 3. Compile the contract, using Ctrl+S.
 4. Deploy the contract to the desired Ethereum network.
+   
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
+## Authors
+
+Sujal Mahajan
+
 ## Contributing
 
-Contributions are welcome! Please open an issue or submit a pull request for any changes or improvements.
+Contributions are welcome! Feel free for any changes or improvements.
 
 ---
 
