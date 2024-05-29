@@ -18,7 +18,7 @@ MyToken is an Ethereum-based smart contract written using Solidity programming l
 
 ### Functions
 
-#### mintToken
+#### 1. mintToken
 
 This function helps us to mint new tokens.
 
@@ -36,7 +36,7 @@ function mintToken(address _address, uint256 _value) public {
 }
 ```
 
-#### burnToken
+#### 2. burnToken
 
 This function helps us to burn the tokens.
 
